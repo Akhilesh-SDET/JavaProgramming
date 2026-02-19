@@ -1,6 +1,6 @@
 package interviewBasedJavaProgramming;
 
-public class A005_PeakNumber {
+public class Array4_PeakNumber {
 	public static void main(String[] args) {
 		int[] a= {9,6,8,4,7,10,};
 		for (int i = 0; i < a.length; i++) {

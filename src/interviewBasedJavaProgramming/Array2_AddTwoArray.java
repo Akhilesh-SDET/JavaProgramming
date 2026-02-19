@@ -1,6 +1,6 @@
 package interviewBasedJavaProgramming;
 
-public class A003_AddTwoArray {
+public class Array2_AddTwoArray {
 	public static void main(String[] args) {
 		int[] a= {1,2,5};
 		int[] b= {7,8,18,12};

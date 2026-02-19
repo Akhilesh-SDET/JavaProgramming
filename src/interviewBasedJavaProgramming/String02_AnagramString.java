@@ -2,7 +2,7 @@ package interviewBasedJavaProgramming;
 
 import java.util.Arrays;
 
-public class A007_AnagramString {
+public class String02_AnagramString {
 	public static void main(String[] args) {
          if(display("Listen","Selent"))
         	 System.out.println("Both are Anargram String");
