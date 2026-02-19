@@ -1,6 +1,6 @@
 package interviewBasedJavaProgramming;
 
-public class A006_FiboniciiSeries {
+public class Array5_FiboniciiSeries {
 	public static void main(String[] args) {
           int a=0;
           int b=1;

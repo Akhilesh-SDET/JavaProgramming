@@ -1,6 +1,6 @@
 package interviewBasedJavaProgramming;
 
-public class A002_ConvertArrayToEvenDigitArray {
+public class Array1_ConvertArrayToEvenDigitArray {
 	public static void main(String[] args) {
 		int[] a = { 10, 30, 25, 60, 87, 45, 6,8};
 		int count=0;

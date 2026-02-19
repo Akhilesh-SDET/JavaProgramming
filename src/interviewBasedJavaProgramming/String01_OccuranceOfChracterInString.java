@@ -1,6 +1,6 @@
 package interviewBasedJavaProgramming;
 
-public class A001_OccuranceOfChracterInString {
+public class String01_OccuranceOfChracterInString {
 	public static void main(String[] args) {
            String str="Bengaluru";
            for (int i = 0; i <str.length(); i++) {
