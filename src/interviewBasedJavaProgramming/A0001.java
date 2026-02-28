@@ -5,6 +5,7 @@ public class A0001 {
 		System.out.println("commit first");
 		System.out.println("commit second");
 		System.out.println("commit third");
-		System.out.println("commit four");
+		System.out.println("commit fourth");
+		System.out.println("commit fifth");
 	}
 }
