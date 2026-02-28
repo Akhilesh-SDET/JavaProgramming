@@ -5,7 +5,6 @@ public class A002_LeapYear {
 		int year = 2001;
 		if (year % 400 == 0 || ((year % 4 == 0) && year % 100 == 0)) {
 			System.out.println("Leap Year");
-			System.out.println("create conflicate");
 		} else {
 			System.out.println("Not Leap year");
 			System.out.println("Not Leap year");
