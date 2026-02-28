@@ -7,6 +7,7 @@ public class A002_LeapYear {
         	 System.out.println("Leap Year");
          }else {
         	 System.out.println("Not Leap year");
+        	 System.out.println("Not Leap year");
          }
 	}
 }
