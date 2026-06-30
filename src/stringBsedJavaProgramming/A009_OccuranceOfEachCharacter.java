@@ -2,7 +2,7 @@ package stringBsedJavaProgramming;
 
 public class A009_OccuranceOfEachCharacter {
 	public static void main(String[] args) {
-		String str="Bengalurububna";
+		String str="Bengaluru";
 		String st = str.toLowerCase();
 		for (int i = 0; i <st.length(); i++) {
 			int count = 0;

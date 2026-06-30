@@ -1,19 +1,18 @@
 package starPatternBasedJavaProgramming;
 
-public class A010_ButtomToTopPyramid {
+public class A018_PyramidNumber {
 	public static void main(String[] args) {
-		int size = 7;
+		int size = 3;
 		for (int i = 1; i <= size; i++) {
-			int temp = 1;
+			char temp = 'A';
 			for (int j = 1; j <= size * 2 - 1; j++) {
 				if (i + j >= size + 1 && j - i <= size - 1) {
 					System.out.print(temp + " ");
-					if (j < size) {
+					if(j<size) {
 						temp++;
-					} else {
+					}else {
 						temp--;
 					}
-
 				} else {
 					System.out.print("  ");
 				}
